@@ -1,0 +1,4 @@
+1.  Download graylog2 server
+    https://www.graylog.org/downloads
+    
+2. http://docs.graylog.org/en/2.5/pages/installation/operating_system_packages.html#step-by-step-guides
